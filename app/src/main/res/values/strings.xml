@@ -2,4 +2,5 @@
     <string name="app_name">Wifi Measure Box</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_new__mes">New Measure</string>
+    <string name="title_activity_name">Set a name for the Measure</string>
 </resources>

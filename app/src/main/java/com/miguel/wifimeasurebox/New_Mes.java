@@ -1,9 +1,12 @@
 package com.miguel.wifimeasurebox;
 
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.app.ActivityOptionsCompat;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
+import android.view.View;
 import android.widget.TextView;
 
 public class New_Mes extends AppCompatActivity {
@@ -11,6 +14,10 @@ public class New_Mes extends AppCompatActivity {
 
     AlertDialog.Builder builder;
     final Object ob = this;
+
+    int first;
+    int second;
+    int third;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -62,22 +69,34 @@ public class New_Mes extends AppCompatActivity {
         }else{
 
 
+            if(i == 2) {
+                DialogInterface.OnClickListener dialogClickListener_mes3 = new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        switch (which) {
+                            case DialogInterface.BUTTON_POSITIVE:
+                                new Async_measure((New_Mes) ob, 3, getApplicationContext()).execute();
+                                break;
 
-            DialogInterface.OnClickListener dialogClickListener_mes3 = new DialogInterface.OnClickListener() {
-                @Override
-                public void onClick(DialogInterface dialog, int which) {
-                    switch (which){
-                        case DialogInterface.BUTTON_POSITIVE:
-                            new Async_measure((New_Mes)ob,3,getApplicationContext()).execute();
-                            break;
-
+                        }
                     }
+                };
+
+                builder.setMessage("Third measure should be taken at the door. Are you there? ").setPositiveButton("Yes", dialogClickListener_mes3).show();
+
+            }else{
+                try {
+                    Thread.sleep(3000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
                 }
-            };
-
-            builder.setMessage("Third measure should be taken at the door. Are you there? ").setPositiveButton("Yes", dialogClickListener_mes3).show();
-
-
+                Intent intent = new Intent(getApplicationContext(), Name.class);
+                ActivityOptionsCompat options = ActivityOptionsCompat.makeSceneTransitionAnimation(New_Mes.this, (View)this.findViewById(R.id.imageView) , "profile");
+                intent.putExtra("door", third);
+                intent.putExtra("middle", second);
+                intent.putExtra("fur", first);
+                startActivity(intent, options.toBundle());
+            }
         }
     }
 }
