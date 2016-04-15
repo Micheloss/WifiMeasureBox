@@ -8,10 +8,7 @@
     tools:context="com.miguel.wifimeasurebox.New_Mes"
     tools:showIn="@layout/activity_new__mes">
 
-    <ScrollView
-        android:id="@+id/scroll"
-        android:layout_width="match_parent"
-        android:layout_height="350dp">
+
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -21,13 +18,13 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Measure 1"
-                android:background="#FFFFFF"
-                android:textColor="#00ACC1"
-                android:translationZ="@dimen/shadow"
-                android:layout_marginTop="20dp"
                 android:layout_marginLeft="22dp"
-                android:textSize="60dp"/>
+                android:layout_marginTop="20dp"
+                android:background="#FFFFFF"
+                android:text="Measure 1"
+                android:textColor="#00ACC1"
+                android:textSize="60dp"
+                android:translationZ="@dimen/shadow" />
 
             <TextView
                 android:id="@+id/mes1"
@@ -35,23 +32,23 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="22dp"
                 android:layout_marginTop="20dp"
-                android:text="-"
                 android:background="#FFFFFF"
                 android:gravity="center"
-                android:translationZ="@dimen/shadow"
+                android:text="-"
                 android:textColor="#00ACC1"
-                android:textSize="30dp"/>
+                android:textSize="30dp"
+                android:translationZ="@dimen/shadow" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Measure 2"
-                android:background="#FFFFFF"
-                android:textColor="#00ACC1"
-                android:translationZ="@dimen/shadow"
-                android:layout_marginTop="20dp"
                 android:layout_marginLeft="22dp"
-                android:textSize="60dp"/>
+                android:layout_marginTop="20dp"
+                android:background="#FFFFFF"
+                android:text="Measure 2"
+                android:textColor="#00ACC1"
+                android:textSize="60dp"
+                android:translationZ="@dimen/shadow" />
 
             <TextView
                 android:id="@+id/mes2"
@@ -59,23 +56,23 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="22dp"
                 android:layout_marginTop="20dp"
-                android:text="-"
                 android:background="#FFFFFF"
                 android:gravity="center"
-                android:translationZ="@dimen/shadow"
+                android:text="-"
                 android:textColor="#00ACC1"
-                android:textSize="30dp"/>
+                android:textSize="30dp"
+                android:translationZ="@dimen/shadow" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Measure 3"
-                android:background="#FFFFFF"
-                android:textColor="#00ACC1"
-                android:translationZ="@dimen/shadow"
-                android:layout_marginTop="20dp"
                 android:layout_marginLeft="22dp"
-                android:textSize="60dp"/>
+                android:layout_marginTop="20dp"
+                android:background="#FFFFFF"
+                android:text="Measure 3"
+                android:textColor="#00ACC1"
+                android:textSize="60dp"
+                android:translationZ="@dimen/shadow" />
 
             <TextView
                 android:id="@+id/mes3"
@@ -83,25 +80,23 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="22dp"
                 android:layout_marginTop="20dp"
-                android:text="-"
                 android:background="#FFFFFF"
                 android:gravity="center"
-                android:translationZ="@dimen/shadow"
+                android:text="-"
                 android:textColor="#00ACC1"
-                android:textSize="30dp"/>
+                android:textSize="30dp"
+                android:translationZ="@dimen/shadow" />
 
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:layout_below="@id/mes3"
+                android:layout_marginTop="25dp"
+                android:src="@drawable/wifisplash"
+                android:transitionName="profile" />
 
         </LinearLayout>
 
-    </ScrollView>
-
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="150dp"
-        android:id="@+id/imageView"
-        android:src="@drawable/wifisplash"
-        android:layout_marginTop="25dp"
-        android:layout_below="@id/scroll"
-        android:transitionName="profile"/>
 
 </RelativeLayout>

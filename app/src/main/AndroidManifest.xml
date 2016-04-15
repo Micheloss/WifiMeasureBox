@@ -27,6 +27,10 @@
         <activity
             android:name=".Name"
             android:label="@string/title_activity_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Old_data"
+            android:label="@string/title_activity_old_data"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

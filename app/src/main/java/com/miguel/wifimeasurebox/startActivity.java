@@ -26,14 +26,24 @@ public class startActivity extends AppCompatActivity {
             public void onClick(View v) {
 
                 Intent i = new Intent(getApplicationContext(), New_Mes.class);
-                ActivityOptionsCompat options = ActivityOptionsCompat.makeSceneTransitionAnimation(startActivity.this, (View)im , "profile");
+                ActivityOptionsCompat options = ActivityOptionsCompat.makeSceneTransitionAnimation(startActivity.this, im, "profile");
                 startActivity(i, options.toBundle());
 
             }
 
             });
 
+        Button old_mes = (Button) findViewById(R.id.button2);
 
+        old_mes.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                Intent i = new Intent(getApplicationContext(), Old_data.class);
+                startActivity(i);
+
+            }
+        });
 
     }
 
