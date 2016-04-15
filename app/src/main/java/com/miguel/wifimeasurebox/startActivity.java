@@ -1,20 +1,12 @@
 package com.miguel.wifimeasurebox;
 
-import android.app.Activity;
-import android.content.Context;
 import android.content.Intent;
-import android.net.wifi.WifiInfo;
-import android.net.wifi.WifiManager;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v4.app.ActivityOptionsCompat;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
-import android.util.Log;
-import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 
@@ -42,21 +34,7 @@ public class startActivity extends AppCompatActivity {
             });
 
 
-        WifiManager wifiManager = (WifiManager) this.getSystemService(Context.WIFI_SERVICE);
-        int numberOfLevels = 200;
-        WifiInfo wifiInfo ;
-        int i = 0;
-        while(i < numberOfLevels) {
-            wifiInfo = wifiManager.getConnectionInfo();
-            int level = WifiManager.calculateSignalLevel(wifiInfo.getRssi(), numberOfLevels);
-            Log.d("Level", "Level measured --> "+ level );
-            i++;
-            try {
-                Thread.sleep(100);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-        }
+
     }
 
     @Override
