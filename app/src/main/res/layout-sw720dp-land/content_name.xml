@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.miguel.wifimeasurebox.Name"
+    tools:showIn="@layout/activity_name">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="800dp"
+        android:layout_height="500dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="25dp"
+        android:src="@drawable/wifisplash"
+        android:transitionName="profile" />
+
+    <TextView
+        android:id="@+id/tx3"
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="200dp"
+        android:background="#FFFFFF"
+        android:text="Set a name for the measure"
+        android:textColor="#00ACC1"
+        android:textSize="70sp"
+        android:translationZ="@dimen/shadow" />
+
+    <EditText
+        android:id="@+id/mes2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tx3"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="22dp"
+        android:layout_marginTop="200dp"
+        android:background="#FFFFFF"
+        android:gravity="center"
+        android:maxLines="1"
+        android:textColor="#00ACC1"
+        android:textSize="30sp"
+        android:translationZ="@dimen/shadow" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignStart="@+id/mes2"
+        android:layout_below="@+id/mes2"
+        android:layout_gravity="left"
+        android:layout_marginTop="40dp"
+        android:background="#FFFFFF"
+        android:text="Save"
+        android:textColor="#00ACC1"
+        android:textSize="20sp"
+        android:translationZ="@dimen/shadow" />
+
+</RelativeLayout>
