@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.miguel.wifimeasurebox.Name"
+    tools:showIn="@layout/activity_name">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:id="@+id/imageView"
+        android:src="@drawable/wifisplash"
+        android:layout_marginTop="25dp"
+        android:layout_below="@id/scroll"
+        android:transitionName="profile"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Set a name for the measure"
+        android:background="#FFFFFF"
+        android:textColor="#00ACC1"
+        android:translationZ="@dimen/shadow"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="22dp"
+        android:textSize="50dp"
+        android:layout_below="@+id/imageView"
+        android:id="@+id/tx3"
+        android:layout_marginBottom="30dp"
+        />
+
+    <EditText
+        android:id="@+id/mes2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="22dp"
+        android:background="#FFFFFF"
+        android:gravity="center"
+        android:translationZ="@dimen/shadow"
+        android:textColor="#00ACC1"
+        android:textSize="30dp"
+        android:layout_below="@+id/tx3"
+        android:layout_centerVertical="true"
+        android:maxLines="1" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:id="@+id/button3"
+        android:layout_below="@+id/mes2"
+        android:textColor="#00ACC1"
+        android:layout_alignStart="@+id/mes2"
+        android:layout_marginTop="40dp"
+        android:background="#FFFFFF"
+        android:layout_alignParentEnd="true"
+        android:translationZ="@dimen/shadow"
+        android:layout_gravity="left"
+        android:textSize="20dp"/>
+
+</RelativeLayout>

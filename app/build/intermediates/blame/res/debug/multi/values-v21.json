@@ -1,0 +1,1087 @@
+[
+    {
+        "outputFile": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/src/main/res/values-v21/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 455
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 18,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 460,
+                    "endColumn": 90,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 102,
+                    "endOffset": 649
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 654,
+                    "endColumn": 102,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 104,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 106,
+                    "endOffset": 964
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 969,
+                    "endColumn": 108,
+                    "endOffset": 1073
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1078,
+                    "endColumn": 108,
+                    "endOffset": 1182
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1187,
+                    "endColumn": 108,
+                    "endOffset": 1291
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1296,
+                    "endColumn": 108,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endColumn": 108,
+                    "endOffset": 1509
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1514,
+                    "endColumn": 106,
+                    "endOffset": 1616
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1621,
+                    "endColumn": 102,
+                    "endOffset": 1719
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1724,
+                    "endColumn": 118,
+                    "endOffset": 1838
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1843,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1993
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1998,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 2148
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2153,
+                    "endColumn": 104,
+                    "endOffset": 2253
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2258,
+                    "endColumn": 120,
+                    "endOffset": 2374
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2379,
+                    "endColumn": 100,
+                    "endOffset": 2475
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2480,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2622
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2627,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2763
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2768,
+                    "endColumn": 102,
+                    "endOffset": 2866
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2871,
+                    "endColumn": 118,
+                    "endOffset": 2985
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2990,
+                    "endColumn": 106,
+                    "endOffset": 3092
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3097,
+                    "endColumn": 102,
+                    "endOffset": 3195
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3200,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 3350
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3355,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 3521
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3526,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 3670
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3675,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 3835
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3840,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 3992
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3997,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 4143
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4148,
+                    "endColumn": 118,
+                    "endOffset": 4262
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4267,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 4411
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4416,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 4560
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4565,
+                    "endColumn": 111,
+                    "endOffset": 4672
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4677,
+                    "endColumn": 146,
+                    "endOffset": 4819
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4824,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 4972
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4977,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 5119
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5124,
+                    "endColumn": 74,
+                    "endOffset": 5194
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5199,
+                    "endColumn": 88,
+                    "endOffset": 5283
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5288,
+                    "endColumn": 86,
+                    "endOffset": 5370
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5375,
+                    "endColumn": 100,
+                    "endOffset": 5471
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5476,
+                    "endLine": 108,
+                    "endColumn": 12,
+                    "endOffset": 8539
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8544,
+                    "endLine": 111,
+                    "endColumn": 12,
+                    "endOffset": 8725
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 8730,
+                    "endLine": 155,
+                    "endColumn": 12,
+                    "endOffset": 11805
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 11810,
+                    "endLine": 158,
+                    "endColumn": 12,
+                    "endOffset": 12003
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 12008,
+                    "endLine": 160,
+                    "endColumn": 12,
+                    "endOffset": 12126
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 12131,
+                    "endLine": 162,
+                    "endColumn": 12,
+                    "endOffset": 12249
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 12254,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 12362
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 12367,
+                    "endLine": 167,
+                    "endColumn": 12,
+                    "endOffset": 12545
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 12550,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 12676
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 12681,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 12877
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 12882,
+                    "endColumn": 88,
+                    "endOffset": 12966
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 12971,
+                    "endColumn": 110,
+                    "endOffset": 13077
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 13082,
+                    "endColumn": 126,
+                    "endOffset": 13204
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 13209,
+                    "endColumn": 100,
+                    "endOffset": 13305
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 13310,
+                    "endColumn": 94,
+                    "endOffset": 13400
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 13405,
+                    "endColumn": 122,
+                    "endOffset": 13523
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 13528,
+                    "endColumn": 128,
+                    "endOffset": 13652
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 13657,
+                    "endColumn": 116,
+                    "endOffset": 13769
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 13774,
+                    "endLine": 183,
+                    "endColumn": 12,
+                    "endOffset": 13946
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 13951,
+                    "endColumn": 98,
+                    "endOffset": 14045
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 14050,
+                    "endLine": 186,
+                    "endColumn": 12,
+                    "endOffset": 14180
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 14185,
+                    "endLine": 188,
+                    "endColumn": 12,
+                    "endOffset": 14323
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 14328,
+                    "endLine": 190,
+                    "endColumn": 12,
+                    "endOffset": 14458
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 14463,
+                    "endLine": 192,
+                    "endColumn": 12,
+                    "endOffset": 14577
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 14582,
+                    "endLine": 196,
+                    "endColumn": 12,
+                    "endOffset": 14778
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 14783,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 14897
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 14902,
+                    "endColumn": 92,
+                    "endOffset": 14990
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 14995,
+                    "endColumn": 110,
+                    "endOffset": 15101
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 15106,
+                    "endColumn": 55,
+                    "endOffset": 15157
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 15162,
+                    "endLine": 203,
+                    "endColumn": 12,
+                    "endOffset": 15264
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 15269,
+                    "endLine": 207,
+                    "endColumn": 12,
+                    "endOffset": 15459
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 15464,
+                    "endLine": 209,
+                    "endColumn": 12,
+                    "endOffset": 15570
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 15575,
+                    "endLine": 211,
+                    "endColumn": 12,
+                    "endOffset": 15703
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 15708,
+                    "endColumn": 94,
+                    "endOffset": 15798
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 15803,
+                    "endColumn": 90,
+                    "endOffset": 15889
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 15894,
+                    "endColumn": 90,
+                    "endOffset": 15980
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 15985,
+                    "endColumn": 116,
+                    "endOffset": 16097
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 16102,
+                    "endLine": 217,
+                    "endColumn": 12,
+                    "endOffset": 16236
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 16241,
+                    "endLine": 227,
+                    "endColumn": 12,
+                    "endOffset": 16749
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 16754,
+                    "endLine": 237,
+                    "endColumn": 12,
+                    "endOffset": 17274
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 17279,
+                    "endLine": 247,
+                    "endColumn": 12,
+                    "endOffset": 17954
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 17959,
+                    "endColumn": 56,
+                    "endOffset": 18011
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 18016,
+                    "endColumn": 57,
+                    "endOffset": 18069
+                },
+                "from": {
+                    "file": "/Users/MiguelAngel/AndroidStudioProjects/WifiMeasureBox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml"
+                }
+            }
+        ]
+    }
+]

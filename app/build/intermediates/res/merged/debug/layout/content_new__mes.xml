@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.miguel.wifimeasurebox.New_Mes"
+    tools:showIn="@layout/activity_new__mes">
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Measure 1"
+                android:background="#FFFFFF"
+                android:textColor="#00ACC1"
+                android:translationZ="@dimen/shadow"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="22dp"
+                android:textSize="60dp"/>
+
+            <TextView
+                android:id="@+id/mes1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="-"
+                android:background="#FFFFFF"
+                android:gravity="center"
+                android:translationZ="@dimen/shadow"
+                android:textColor="#00ACC1"
+                android:textSize="30dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Measure 2"
+                android:background="#FFFFFF"
+                android:textColor="#00ACC1"
+                android:translationZ="@dimen/shadow"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="22dp"
+                android:textSize="60dp"/>
+
+            <TextView
+                android:id="@+id/mes2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="-"
+                android:background="#FFFFFF"
+                android:gravity="center"
+                android:translationZ="@dimen/shadow"
+                android:textColor="#00ACC1"
+                android:textSize="30dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Measure 3"
+                android:background="#FFFFFF"
+                android:textColor="#00ACC1"
+                android:translationZ="@dimen/shadow"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="22dp"
+                android:textSize="60dp"/>
+
+            <TextView
+                android:id="@+id/mes3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="-"
+                android:background="#FFFFFF"
+                android:gravity="center"
+                android:translationZ="@dimen/shadow"
+                android:textColor="#00ACC1"
+                android:textSize="30dp"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:id="@+id/imageView"
+                android:src="@drawable/wifisplash"
+                android:layout_marginTop="25dp"
+                android:layout_below="@id/mes3"
+                android:transitionName="profile"/>
+
+        </LinearLayout>
+
+
+
+
+</RelativeLayout>
